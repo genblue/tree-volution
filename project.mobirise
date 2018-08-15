@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#6b4141",
         "#f5af33",
-        "#3e1253"
+        "#3e1253",
+        "#333333"
       ]
     },
     "path": "@PROJECT_PATH@",
